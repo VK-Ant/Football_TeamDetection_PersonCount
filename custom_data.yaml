@@ -1,0 +1,12 @@
+
+
+train: /content/train_data/images/train/  # train images (relative to 'path') 128 images
+val: /content/train_data/images/val/  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 4  # number of classes
+names: ['Team1', 'Team2', 'Ball', 'Team3']  # class names
+
+
+
